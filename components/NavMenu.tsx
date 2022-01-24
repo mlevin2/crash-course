@@ -24,7 +24,7 @@ const NavMenu = () => (
     <li>
       <Link href="/[[...slug]]" as="/registration">
         <a className="inline-block text-black no-underline hover:text-gray-800 hover:text-underline py-2 px-4">
-          Registration
+          Registration!
         </a>
       </Link>
     </li>
